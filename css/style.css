@@ -1,0 +1,13 @@
+/* Root_My_start */
+:root
+{--col1:red; --col1:black; --col1:white; --col1:#dddd; --col1:#f0f0f0; --col1:#fff; --col1:#626262; --col1:green; --col1:salmon; --col1:skyblue; --col1:red; --col1:red; }
+/* Root_My_start */
+
+.box1
+{height: 100px; background-color: #b60303; border-right: 1px solid;}
+.row
+{background-color: #c00d0d;}
+.roww
+{height: 200px;}
+.dark
+{height: 100px; background-color: #626262;}
